@@ -13,3 +13,8 @@ RnwWeave: knitr
 LaTeX: XeLaTeX
 
 BuildType: Website
+
+setwd("C:/Hugo/Sites/example.com/dist")
+library(blogdown)
+new_site()
+new_post()
