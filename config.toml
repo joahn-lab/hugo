@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 baseURL = "https://joahn-lab.netlify.app/"
 languageCode = "ko-kr"
+=======
+baseURL = "https://joahn-lab.netlify.app"
+languageCode = "en-us"
+>>>>>>> bbf96f6f9b177bdf6975c687481799dc049d71c2
 title = "My New Hugo Site"
 theme = "hugo-kiera"
